@@ -36,7 +36,5 @@ This project is a Python-based application that allows you to input Spotify song
 
 This project is intended for educational purposes only. Ensure you have the necessary rights to download and use the music files as per your local laws and regulations.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have ideas for enhancements, feel free to open an issue or create a pull request.
 
